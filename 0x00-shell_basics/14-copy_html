@@ -1,2 +1,3 @@
-#!/bin/bash
-cp -u *.htm ..
+[12:17 AM]
+0;276;0c#!/bin/bash
+cp -un *.html ../
